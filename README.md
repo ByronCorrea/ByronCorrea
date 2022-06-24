@@ -42,6 +42,6 @@ Also, don't forget to look at https://portfolio.byroncorrea.com/ to check out so
 
 <hr> -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ByronCorrea&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ByronCorrea&theme=tokyonight)
 
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
