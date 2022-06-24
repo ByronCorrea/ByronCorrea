@@ -2,3 +2,5 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ByronCorrea&theme=highcontrast)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByronCorrea&layout=compact&langs_count=7&theme=highcontrast"/>
+
+![Snake animation](https://github.com/ByronCorrea/ByronCorrea/blob/output/github-contribution-grid-snake.svg)
