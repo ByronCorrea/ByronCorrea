@@ -6,6 +6,7 @@
 <p>Constantly learning new technologies. With creativity to develop the projects of the future. </p>
 <p>You can reach me out at my linkedin or mail me at byron10-@hotmail.com</p>
 Also, don't forget to look at https://portfolio.byroncorrea.com/ to check out some of my work
+![GitHub Stats](https://github-readme-stats.vercel.app/api username=ByronCorrea&theme=radical)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/byroncorrea/)
 
