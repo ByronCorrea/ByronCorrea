@@ -32,8 +32,6 @@ John Lasseter
 
 ![Snake animation](https://github.com/ByronCorrea/ByronCorrea/blob/output/github-contribution-grid-snake.svg)
 
-<p>&nbsp;</p>
-
 <div align="initial">
 
 ## [Contact me](https://pstickar.me/)
