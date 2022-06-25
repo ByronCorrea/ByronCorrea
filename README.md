@@ -1,4 +1,4 @@
-## Hi, I'm Byron Correa Full Stack Web Developer!
+# Hi, I'm Byron Correa Full Stack Web Developer!
 
 <div align="center">
   <a href="https://github.com/ByronCorrea">
@@ -6,7 +6,16 @@
   <img height="170em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByronCorrea&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
-### I'm
+<div>
+
+## If you want to see some of my work please visit my [Portfolio](https://portfolio.byroncorrea.com).
+
+```
+"Art challenges technology and technology inspires art."
+John Lasseter
+```
+
+</div>
 
 <div align="center"style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -24,12 +33,12 @@
   <img align="center" alt="ByronCorrea" height="150" style="border-radius:50px;" src="https://i.ibb.co/mRYvqmN/Perfil2.png">
 </div>
 
+![Snake animation](https://github.com/ByronCorrea/ByronCorrea/blob/output/github-contribution-grid-snake.svg)
+
 ### 📩 Contact me: ceo@byroncorrea.com
 
-### or connect with me 👇
+<div>
 
-<div> 
-  <a href="https://www.linkedin.com/in/byroncorrea" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-![Snake animation](https://github.com/ByronCorrea/ByronCorrea/blob/output/github-contribution-grid-snake.svg)
+### 👇 Connect with me👇 <a href="https://www.linkedin.com/in/byroncorrea" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
 </div>
