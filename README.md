@@ -21,28 +21,37 @@
   <img align="center" alt="ByronCorrea" height="150" style="border-radius:50px;" src="https://i.ibb.co/mRYvqmN/Perfil2.png">
 </div>
 
+<div align="center">
+
 ```
 "Art challenges technology and technology inspires art."
 John Lasseter
 ```
 
+</div>
+
 ![Snake animation](https://github.com/ByronCorrea/ByronCorrea/blob/output/github-contribution-grid-snake.svg)
 
 <p>&nbsp;</p>
 
-💼 If you want to see some of my work please visit my [portfolio](https://portfolio.byroncorrea.com/).
+<div align="initial">
+
+## [Contact me](https://pstickar.me/)
+
+💼 If you want to see some of my work please visit my [portfolio](https://portfolio.byroncorrea.com).
+
+### 📩 Email: ceo@byroncorrea.com
 
 <p>&nbsp;</p>
 
-### 📩 Contact me: ceo@byroncorrea.com
+</div>
 
-<div>
+<div align="center">
 
-### 👇 Connect with me👇
+### Follow me ❤️
 
 <a href="https://www.linkedin.com/in/byroncorrea" target="_blank"><img height="25"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://twitter.com/by_ronnnnn" target="_blank"><img height="25" src="https://img.shields.io/twitter/follow/by_ronnnnn?style=social" target="_blank"></a>
-
-<!-- <a href="https://github.com/ByronCorrea" target="_blank"><img height="25" src="https://img.shields.io/github/followers/ByronCorrea?style=social" target="_blank"></a> -->
+<a href="https://github.com/ByronCorrea" target="_blank"><img height="25" src="https://img.shields.io/github/followers/ByronCorrea?style=social" target="_blank"></a>
 
 </div>
