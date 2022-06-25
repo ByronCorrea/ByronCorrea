@@ -34,7 +34,7 @@ John Lasseter
 
 <div align="center">
 
-## [Contact](https://pstickar.me/)
+<h1 align="center">Contact</h1>
 
 </div>
 
