@@ -28,9 +28,9 @@ John Lasseter
 
 ![Snake animation](https://github.com/ByronCorrea/ByronCorrea/blob/output/github-contribution-grid-snake.svg)
 
-## 📌 If you want to see some of my work please visit my [Portfolio](https://portfolio.byroncorrea.com).
-
 <p>&nbsp;</p>
+
+💼 If you want to see some of my work please visit my [portfolio](https://portfolio.byroncorrea.com/)
 
 ### 📩 Contact me: ceo@byroncorrea.com
 
