@@ -18,7 +18,7 @@
   <img align="center"  alt="Bash" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg">
   <img align="center" alt="less" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg"  />
   <img align="center" alt="express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"  />
-  <img align="right" alt="ByronCorrea" height="300" style="border-radius:50px;" src="https://i.ibb.co/mRYvqmN/Perfil2.png">
+  <img align="right" alt="ByronCorrea" height="150" style="border-radius:50px;" src="https://i.ibb.co/mRYvqmN/Perfil2.png">
 </div>
 
 ![Snake animation](https://github.com/ByronCorrea/ByronCorrea/blob/output/github-contribution-grid-snake.svg)
