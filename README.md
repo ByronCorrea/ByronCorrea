@@ -30,7 +30,7 @@ John Lasseter
 
 <p>&nbsp;</p>
 
-💼 If you want to see some of my work please visit my [portfolio](https://portfolio.byroncorrea.com/)
+💼 If you want to see some of my work please visit my [portfolio](https://portfolio.byroncorrea.com/).
 
 ### 📩 Contact me: ceo@byroncorrea.com
 
