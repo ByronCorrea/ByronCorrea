@@ -32,17 +32,17 @@ John Lasseter
 
 ![Snake animation](https://github.com/ByronCorrea/ByronCorrea/blob/output/github-contribution-grid-snake.svg)
 
-<div align="initial">
+<div align="CENTER">
 
 ## [Contact me](https://pstickar.me/)
+
+</div>
 
 💼 If you want to see some of my work please visit my [portfolio](https://portfolio.byroncorrea.com).
 
 ### 📩 Email: ceo@byroncorrea.com
 
 <p>&nbsp;</p>
-
-</div>
 
 <div align="center">
 
