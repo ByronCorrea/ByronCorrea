@@ -5,12 +5,6 @@
   <img height="170em" width="50%" src="https://github-readme-stats.vercel.app/api?username=ByronCorrea&theme=highcontrast"/>
   <img height="170em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByronCorrea&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
-
-```
-"Art challenges technology and technology inspires art."
-John Lasseter
-```
-
 <div align="center"style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -26,6 +20,11 @@ John Lasseter
   <img align="center" alt="nodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="ByronCorrea" height="150" style="border-radius:50px;" src="https://i.ibb.co/mRYvqmN/Perfil2.png">
 </div>
+
+```
+"Art challenges technology and technology inspires art."
+John Lasseter
+```
 
 ![Snake animation](https://github.com/ByronCorrea/ByronCorrea/blob/output/github-contribution-grid-snake.svg)
 
