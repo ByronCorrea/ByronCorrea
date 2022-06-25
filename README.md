@@ -6,16 +6,10 @@
   <img height="170em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByronCorrea&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
-<div>
-
-## If you want to see some of my work please visit my [Portfolio](https://portfolio.byroncorrea.com).
-
 ```
 "Art challenges technology and technology inspires art."
 John Lasseter
 ```
-
-</div>
 
 <div align="center"style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -34,6 +28,8 @@ John Lasseter
 </div>
 
 ![Snake animation](https://github.com/ByronCorrea/ByronCorrea/blob/output/github-contribution-grid-snake.svg)
+
+### If you want to see some of my work please visit my [Portfolio](https://portfolio.byroncorrea.com).
 
 ### 📩 Contact me: ceo@byroncorrea.com
 
