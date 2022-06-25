@@ -1,5 +1,4 @@
-# Hi, I'm Byron Correa Full Stack Web Developer!
-
+<h1 align="center">Hi, I'm Byron a Full Stack Web Developer!</h1>
 <div align="center">
   <a href="https://github.com/ByronCorrea">
   <img height="170em" width="50%" src="https://github-readme-stats.vercel.app/api?username=ByronCorrea&theme=highcontrast"/>
@@ -29,12 +28,11 @@ John Lasseter
 
 ![Snake animation](https://github.com/ByronCorrea/ByronCorrea/blob/output/github-contribution-grid-snake.svg)
 
-If you want to see some of my work please visit my [Portfolio](https://portfolio.byroncorrea.com).
+### If you want to see some of my work please visit my [Portfolio](https://portfolio.byroncorrea.com).
 
 ### 📩 Contact me: ceo@byroncorrea.com
 
 <div>
-
-### 👇 Connect with me👇 <a href="https://www.linkedin.com/in/byroncorrea" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
+### 👇 Connect with me👇 
+<a href="https://www.linkedin.com/in/byroncorrea" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
