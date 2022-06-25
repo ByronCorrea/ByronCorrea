@@ -26,9 +26,15 @@
 John Lasseter
 ```
 
+<div>
+
 ![Snake animation](https://github.com/ByronCorrea/ByronCorrea/blob/output/github-contribution-grid-snake.svg)
 
-### 📌 If you want to see some of my work please visit my [Portfolio](https://portfolio.byroncorrea.com).
+</div>
+
+## 📌 If you want to see some of my work please visit my [Portfolio](https://portfolio.byroncorrea.com).
+
+<p>&nbsp;</p>
 
 ### 📩 Contact me: ceo@byroncorrea.com
 
@@ -36,6 +42,8 @@ John Lasseter
 
 ### 👇 Connect with me👇
 
-<a href="https://www.linkedin.com/in/byroncorrea" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://twitter.com/by_ronnnnn" target="_blank"><img src="https://img.shields.io/twitter/follow/by_ronnnnn?style=social" target="_blank"></a>
+<a href="https://www.linkedin.com/in/byroncorrea" target="_blank"><img height="20" width="100" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/ByronCorrea" target="_blank"><img src="https://img.shields.io/github/followers/ByronCorrea?style=social" target="_blank"></a>
 
 </div>
