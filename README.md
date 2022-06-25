@@ -32,6 +32,8 @@ John Lasseter
 
 💼 If you want to see some of my work please visit my [portfolio](https://portfolio.byroncorrea.com/).
 
+<p>&nbsp;</p>
+
 ### 📩 Contact me: ceo@byroncorrea.com
 
 <div>
