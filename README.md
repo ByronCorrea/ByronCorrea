@@ -34,7 +34,7 @@ John Lasseter
 
 <div align="center">
 
-## [Contact](https://pstickar.me/)
+## [Contact](https://portfolio.byroncorrea.com)
 
 </div>
 
