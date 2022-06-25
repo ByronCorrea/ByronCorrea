@@ -40,7 +40,7 @@ John Lasseter
 
 💼 If you want to see some of my work please visit my [portfolio](https://portfolio.byroncorrea.com).
 
-### 📩 Email: ceo@byroncorrea.com
+### 📩 Email: contact@byroncorrea.com
 
 <p>&nbsp;</p>
 
