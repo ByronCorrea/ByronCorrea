@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Byron a Full Stack Web Developer!</h1>
+<h1 align="center">Hi, I'm Byron Full Stack Web Developer!</h1>
 <div align="center">
   <a href="https://github.com/ByronCorrea">
   <img height="170em" width="50%" src="https://github-readme-stats.vercel.app/api?username=ByronCorrea&theme=highcontrast"/>
