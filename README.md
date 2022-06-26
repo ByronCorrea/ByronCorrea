@@ -34,13 +34,13 @@ John Lasseter
 
 <div align="center">
 
-## [Contact](https://portfolio.byroncorrea.com)
+## [Contact](https://portfolio.byroncorrea.com/#contact)
 
 </div>
 
 💼 If you want to see some of my work please visit my [portfolio](https://portfolio.byroncorrea.com).
 
-### 📩 Email: contact@byroncorrea.com
+📩 Email: contact@byroncorrea.com
 
 <p>&nbsp;</p>
 
